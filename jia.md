@@ -6,7 +6,7 @@ description: 第一期學員名冊
 
 ## 請填寫Github連結
 
-
+[https://goo.gl/forms/0c8GYxY3QKSKq96z2](https://goo.gl/forms/0c8GYxY3QKSKq96z2)
 
 ## \[ Coding365學號 \] 姓名
 
