@@ -114,5 +114,21 @@ Codecademy [https://www.codecademy.com/catalog/subject/all](https://www.codecade
 
 Day1 - Node.js 開發環境準備 [https://ithelp.ithome.com.tw/articles/10184550](https://ithelp.ithome.com.tw/articles/10184550)
 
+## Linux作業系統
+
+鳥哥的Linux私房菜 - [http://linux.vbird.org/](http://linux.vbird.org/)
+
+Ubuntu - [https://www.ubuntu.com/](https://www.ubuntu.com/)
+
+Ubuntu \(中文\) - [https://www.ubuntu-tw.org/](https://www.ubuntu-tw.org/) 
+
+Fedora - [https://getfedora.org/](https://getfedora.org/)
+
+CentOS - [https://www.centos.org/](https://www.centos.org/)
+
+Debian - [https://www.debian.org/](https://www.debian.org/)
+
+
+
 
 
