@@ -8,7 +8,7 @@ description: Piscine暑期密集訓練共有8周，學員須完成每周給予Co
 
 [https://140.124.184.228/\_Exam/Login](https://140.124.184.228/_Exam/Login)  
 帳號：Coding365學號  
-密碼：預設為
+密碼：
 
 ## Level 0任務
 
