@@ -259,6 +259,16 @@ TutorialsPoint Java \(英文\) - [https://www.tutorialspoint.com/java/index.htm]
 
 ## Python
 
+Python 超級新手教學 \(Youtube\) - [https://www.youtube.com/watch?v=pAY3q4KZ-z4&list=PLl6jkZVaP8zrH8SNpgEfWKg8ofJDYrf1w](https://www.youtube.com/watch?v=pAY3q4KZ-z4&list=PLl6jkZVaP8zrH8SNpgEfWKg8ofJDYrf1w)
+
+Python 簡介、安裝、與快速開始 By 彭彭 \(Youtube\) - [https://www.youtube.com/watch?v=wqRlKVRUV\_k&list=PL-g0fdC5RMboYEyt6QS2iLb\_1m7QcgfHk](https://www.youtube.com/watch?v=wqRlKVRUV_k&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk)
+
+Python 入門教學 \(Youtube\) - [https://www.youtube.com/watch?v=-bdPRG92TCs&index=15&list=UUSSbMRUqxnNyE0R6NDgyPOg](https://www.youtube.com/watch?v=-bdPRG92TCs&index=15&list=UUSSbMRUqxnNyE0R6NDgyPOg)
+
+Python Tutorial for Absolute Beginners \(英文\)\(Youtube\) - [https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE\_rGRWeh5mIBhD-hhDwSEDxogDg](https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
+
+Python教學 - 由零開始 \(簡體\)\(Youtube\) - [https://www.youtube.com/watch?v=StVvuUNy\_Bs&list=PLoDvOw64tSYtp7KCaz8Pm2zJvuFqKF7GB](https://www.youtube.com/watch?v=StVvuUNy_Bs&list=PLoDvOw64tSYtp7KCaz8Pm2zJvuFqKF7GB)
+
 Codedata Python Tutorial 第一堂（1）揭開序幕 - [http://www.codedata.com.tw/python/python-tutorial-the-1st-class-1-preface/](http://www.codedata.com.tw/python/python-tutorial-the-1st-class-1-preface/)
 
 程式語言教學誌: Python 教材 - [https://pydoing.blogspot.com/2012/10/python-tutorial.html](https://pydoing.blogspot.com/2012/10/python-tutorial.html)
