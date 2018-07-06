@@ -1,5 +1,5 @@
 ---
-description: 第一期學員名冊
+description: 第一期Coding365學員名冊
 ---
 
 # 參加學員
