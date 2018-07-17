@@ -31,7 +31,7 @@ Github：
 
 ## \[ 107590107 \] 李珮岑
 
-Github：
+Github：[https://github.com/kloan99622](https://github.com/kloan99622)
 
 進入Level ![](.gitbook/assets/zero%20%281%29.png) 
 
@@ -143,7 +143,7 @@ Github：[https://github.com/HFPang](https://github.com/HFPang)
 
 Github：
 
-進入Level 
+進入Level ![](.gitbook/assets/zero%20%281%29.png) 
 
 通過任務：
 
@@ -161,9 +161,9 @@ Github：[https://github.com/js910924](https://github.com/js910924)
 
 ## \[ 107590129 \] 邱于瓔
 
-Github：
+Github：[https://github.com/Cheshirefish/cheshirecat](https://github.com/Cheshirefish/cheshirecat)
 
-進入Level 
+進入Level ![](.gitbook/assets/zero%20%281%29.png) 
 
 通過任務：
 
@@ -174,16 +174,6 @@ Github：
 Github：[https://github.com/cuta8451](https://github.com/cuta8451)
 
 進入Level ![](.gitbook/assets/zero%20%281%29.png) 
-
-通過任務：
-
-其他事蹟：
-
-## \[ 107590131 \] 徐啟文
-
-Github：[https://github.com/clarebling](https://github.com/clarebling)
-
-進入Level：
 
 通過任務：
 
@@ -351,7 +341,7 @@ Github：[https://github.com/Evan820112](https://github.com/Evan820112)
 
 ## \[ 107590148 \] 洪翌誠
 
-Github：
+Github：[https://github.com/henry3556108](https://github.com/henry3556108)
 
 進入Level ![](.gitbook/assets/two.png) 
 
