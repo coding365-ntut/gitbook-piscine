@@ -107,7 +107,9 @@ Github：[https://github.com/David5Maya](https://github.com/David5Maya)
 
 通過任務：
 
-其他事蹟：
+其他事蹟：   
+
+![&#x7B2C;&#x4E00;&#x5C46;&#x89E3;&#x984C;&#x738B;](.gitbook/assets/success.png)
 
 ## \[ 107590117 \] 黃穎竹
 
@@ -122,16 +124,6 @@ Github：[https://github.com/zoelilyhuang](https://github.com/zoelilyhuang/codin
 ## \[ 107590119 \] 簡宇鴻
 
 Github：[https://github.com/ntut0002](https://github.com/ntut0002)
-
-進入Level ![](.gitbook/assets/zero%20%281%29.png) 
-
-通過任務：
-
-其他事蹟：
-
-## \[ 107590120 \] 龐華防
-
-Github：[https://github.com/HFPang](https://github.com/HFPang)
 
 進入Level ![](.gitbook/assets/zero%20%281%29.png) 
 
@@ -178,6 +170,8 @@ Github：[https://github.com/cuta8451](https://github.com/cuta8451)
 通過任務：
 
 其他事蹟：
+
+![&#x7B2C;&#x4E00;&#x5C46;&#x89E3;&#x984C;&#x738B;](.gitbook/assets/success.png)
 
 ## \[ 107590132 \] 王奕翔
 
@@ -239,6 +233,8 @@ Github：[https://github.com/e1018e1018](https://github.com/e1018e1018)
 
 其他事蹟：
 
+![&#x7B2C;&#x4E00;&#x5C46;&#x89E3;&#x984C;&#x738B;](.gitbook/assets/success.png)
+
 ## \[ 107590138 \] 李佳芯
 
 Github：[https://github.com/chia-shin](https://github.com/chia-shin)
@@ -248,6 +244,8 @@ Github：[https://github.com/chia-shin](https://github.com/chia-shin)
 通過任務：
 
 其他事蹟：
+
+![&#x7B2C;&#x4E00;&#x5C46;&#x89E3;&#x984C;&#x738B;](.gitbook/assets/success.png)
 
 ## \[ 107590139 \] 卓旭嘉
 
@@ -279,16 +277,6 @@ Github：[https://github.com/milk902566](https://github.com/milk902566)
 
 其他事蹟：
 
-## \[ 107590142 \] 林栢江
-
-Github：[https://github.com/frank22004](https://github.com/frank22004)
-
-進入Level ![](.gitbook/assets/one%20%281%29.png) 
-
-通過任務：
-
-其他事蹟：
-
 ## \[ 107590143 \] 邱妍瑛
 
 Github：[https://github.com/yanyingchiu](https://github.com/yanyingchiu)
@@ -308,6 +296,8 @@ Github：[https://github.com/chiuhans111/](https://github.com/chiuhans111/)
 通過任務：
 
 其他事蹟：
+
+![&#x7B2C;&#x4E00;&#x5C46;&#x89E3;&#x984C;&#x738B;](.gitbook/assets/success.png)
 
 ## \[ 107590145 \] 姚韋辰
 
@@ -349,16 +339,6 @@ Github：[https://github.com/henry3556108](https://github.com/henry3556108)
 
 其他事蹟：
 
-## \[ 107590149 \] 洪薏姍
-
-Github：
-
-進入Level ![](.gitbook/assets/zero%20%281%29.png) 
-
-通過任務：
-
-其他事蹟：
-
 ## \[ 107590150 \] 馬新凱
 
 Github：[https://github.com/ShinKaiMa](https://github.com/ShinKaiMa)
@@ -369,19 +349,11 @@ Github：[https://github.com/ShinKaiMa](https://github.com/ShinKaiMa)
 
 其他事蹟：
 
+![&#x7B2C;&#x4E00;&#x5C46;&#x89E3;&#x984C;&#x738B;](.gitbook/assets/success.png)
+
 ## \[ 107590151 \] 張娟瑤
 
 Github：[https://github.com/ccYaoJoyce](https://github.com/ccYaoJoyce)
-
-進入Level ![](.gitbook/assets/zero%20%281%29.png) 
-
-通過任務：
-
-其他事蹟：
-
-## \[ 107590152 \] 莊于慶
-
-Github：[https://github.com/YUCHING0129](https://github.com/YUCHING0129/coding365.git)
 
 進入Level ![](.gitbook/assets/zero%20%281%29.png) 
 
@@ -429,15 +401,7 @@ Github：[https://github.com/t230201](https://github.com/t230201)
 
 其他事蹟：
 
-## \[ 107590157 \] 陸漢邦
-
-Github：[https://github.com/u0225110](https://github.com/u0225110)
-
-進入Level ![](.gitbook/assets/zero%20%281%29.png) 
-
-通過任務：
-
-其他事蹟：
+![&#x7B2C;&#x4E00;&#x5C46;&#x89E3;&#x984C;&#x738B;](.gitbook/assets/success.png)
 
 ## \[ 107590158 \] 曾建穎
 
@@ -469,6 +433,8 @@ Github：[https://github.com/ntutdanny0414](https://github.com/ntutdanny0414)
 
 其他事蹟：
 
+![&#x7B2C;&#x4E00;&#x5C46;&#x89E3;&#x984C;&#x738B;](.gitbook/assets/success.png)
+
 ## \[ 107590161 \] 鄭郁臻
 
 Github：[https://github.com/Amy0918](https://github.com/Amy0918/Yu-Chen-Cheng.git)
@@ -498,6 +464,8 @@ Github：[https://github.com/scrooge4](https://github.com/scrooge4)
 通過任務：
 
 其他事蹟：
+
+![&#x7B2C;&#x4E00;&#x5C46;&#x89E3;&#x984C;&#x738B;](.gitbook/assets/success.png)
 
 ## \[ 107590164 \] 蘇品卉
 
